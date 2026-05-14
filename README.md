@@ -35,7 +35,7 @@ The output is something a planner can drop into a dashboard the next morning —
 
 ## Sample outputs
 
-*Map screenshots from the published AGOL layers:*
+*Screenshots from the published layers and Charts:*
 
 <!-- Drop your images into the /images folder and reference them here -->
 
