@@ -1,0 +1,47 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+
+# --- ArcGIS / GIS outputs ---
+Outputs/
+*.gdb/
+*.sddraft
+*.sd
+*.lock
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.qix
+
+# Census downloads
+TIGER_BlockGroups/
+tl_*.zip
+
+# --- Credentials / secrets ---
+.env
+.env.*
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
