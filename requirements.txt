@@ -1,0 +1,9 @@
+# Python dependencies for the paratransit block group aggregation pipeline.
+#
+# NOTE: arcpy is NOT installed via pip. It ships with ArcGIS Pro and runs
+# from the conda environment that ArcGIS Pro creates (typically
+# "arcgispro-py3"). Activate that environment before running the script,
+# or clone it and install these additional packages there.
+
+pandas>=2.0
+pyodbc>=4.0
