@@ -43,7 +43,7 @@ The output is something a planner can drop into a dashboard the next morning —
 | --- | --- |
 | ![Client distribution](images/client_distribution.png) | Total clients by block group, color-graduated |
 | ![Service tier coverage](images/service_tier_coverage.png) | Service-area polygons dissolved by tier (2/5/6/7-Day) |
-| ![Outside-service active riders](images/outside_service_active.png) | Block groups with active riders falling outside the service area |
+| ![Outside-service active riders](sample_images/OutsideServiceArea.png) | Block groups with active riders falling outside the service area |
 
 ---
 
