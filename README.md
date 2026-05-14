@@ -134,3 +134,8 @@ The queries reflect the data structure of a typical paratransit scheduling syste
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Author
+
+Built by Andrew Reyna, a transit planner / data analyst based in San Antonio.
+with a background in Urban Planning. Find me at adrsub22@gmail.com
